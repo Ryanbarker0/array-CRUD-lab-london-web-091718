@@ -4,6 +4,6 @@ def create_an_empty_array
 end
 
 def create_an_array
-  my_array = ["dogs", "cats", "hamsters"]
+  my_array = ["dogs", "cats", "hamsters", "horses"]
   my_array
 end
